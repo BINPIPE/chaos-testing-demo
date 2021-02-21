@@ -1,4 +1,4 @@
-# Chaos Testing Demo
+# Chaos Testing Demo  |[![BINPIPE](https://img.shields.io/badge/YouTube-red.svg)](https://www.youtube.com/channel/UCPTgt4Wo0MAnuzNEEZlk90A)
 This is an example project prepared for demonstrating Chaos Engineering experiment on a Spring boot application using Chaos Monkey and Chaos Toolkit
 
 ## REST endpoints
